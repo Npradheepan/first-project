@@ -1,0 +1,31 @@
+sudo /usr/sbin/apachectl start
+with password
+
+secont method
+Start Apache server command:
+
+sudo /usr/sbin/apachectl start
+
+or
+
+sudo apachectl start
+
+ 
+
+Stop Apache server command:
+
+sudo /usr/sbin/apachectl stop
+
+or
+
+sudo apachectl stop
+
+ 
+
+Restart Apache server command:
+
+sudo /usr/sbin/apachectl restart
+
+or
+
+sudo apachectl restart
